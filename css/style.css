@@ -1,0 +1,79 @@
+/* css/style.css */
+.seo-comparison-form {
+    margin-top: 20px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.api-key-section {
+    margin: 20px 0;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.comparison-results {
+    margin-top: 20px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.hidden {
+    display: none;
+}
+
+#analysis-content {
+    line-height: 1.6;
+    margin-top: 15px;
+}
+
+#analysis-content h2 {
+    margin: 20px 0 10px;
+    color: #23282d;
+    font-size: 1.5em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+}
+
+#analysis-content h3 {
+    margin: 15px 0 10px;
+    color: #23282d;
+    font-size: 1.2em;
+}
+
+#analysis-content ul {
+    margin: 10px 0 10px 20px;
+    list-style-type: disc;
+}
+
+#analysis-content li {
+    margin: 5px 0;
+    line-height: 1.4;
+}
+
+#analysis-content p {
+    margin: 10px 0;
+}
+
+#analysis-content strong {
+    color: #23282d;
+}
+
+.error-message {
+    color: #dc3232;
+    padding: 10px;
+    border-left: 4px solid #dc3232;
+    margin: 10px 0;
+}
+
+.success-message {
+    color: #46b450;
+    padding: 10px;
+    border-left: 4px solid #46b450;
+    margin: 10px 0;
+}
